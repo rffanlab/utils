@@ -1,0 +1,7 @@
+.idea
+target
+utils.iml
+.DS_Store
+.dart_tool/
+build/
+.flutter-plugins
