@@ -9,6 +9,9 @@ public class HttpResult {
     // http状态码
     private Integer statusCode;
 
+    // 最初的location
+    private String primaryLocation;
+
     // 上一个地址
     private String preLocation;
 
@@ -28,7 +31,6 @@ public class HttpResult {
     // UserAgent;
     private String UserAgent;
 
-    // 请求体
 
 
 

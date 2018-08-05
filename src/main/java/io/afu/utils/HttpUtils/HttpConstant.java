@@ -12,19 +12,26 @@ public class HttpConstant {
     // 文本类型
     public final static String Text="application/Text";
 
+    public final static String Text_plain= "text/plain";
+
     // Json 类型
     public final static String JSON = "application/json";
 
-    // xml 类型
+    // javascript 类型
     public final static String JavaScript = "application/javascript";
 
-    // pdf 类型
+    // XML 类型
+    public final static String Xml = "application/xml";
 
-    // url表单类型
+    public final static String Xml_text = "text/xml";
 
-    // 表单数据类型
+    // HTML 类型
+    public final static String Html = "text/html";
 
-    // JavaScript 类型
+    // X-WWW-FORM-URLENCODED
+    public static final String X_www_form_urlencoded = "application/x-www-form-urlencoded";
+
+
 
 
 
